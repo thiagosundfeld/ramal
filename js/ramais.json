@@ -1,0 +1,370 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "dependencies": {
+  "setorList": [
+    {
+      "id": 40,
+      "email": "admfinanceiro@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Administrativo Financeiro",
+      "ramal": "3236-1851"
+    },
+    {
+      "id": 17,
+      "email": "almoxarifado@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Almoxarifado",
+      "ramal": "3236-1833\n"
+    },
+    {
+      "id": 8,
+      "email": "auditoria@hospitalpalmasmedical.com.br\n",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Auditoria",
+      "ramal": "3236-1828\n"
+    },
+    {
+      "id": 36,
+      "email": "ccih@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "CCIH",
+      "ramal": "3223-1828"
+    },
+    {
+      "id": 32,
+      "email": "cc@hospitalpalmasmedical.com.br\n",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Centro Cirúrgico 12º Andar",
+      "ramal": "3236-1840\n"
+    },
+    {
+      "id": 31,
+      "email": "cc@hospitalpalmasmedical.com.br\n",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Centro Cirurgico 2º Andar",
+      "ramal": "3236-1822\n"
+    },
+    {
+      "id": 14,
+      "email": "cme@hospitalpalmasmedical.com.br\n",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "CME",
+      "ramal": "3236-1834\n"
+    },
+    {
+      "id": 21,
+      "email": "compras@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Compras",
+      "ramal": "3236-1890"
+    },
+    {
+      "id": 34,
+      "email": "consultorio@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Consultório - PS",
+      "ramal": "3236-1862 / 3236-1857"
+    },
+    {
+      "id": 13,
+      "email": "contabilidade@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Contabilidade",
+      "ramal": "3236-1837"
+    },
+    {
+      "id": 27,
+      "email": "auditoria@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Coordenação de Enfermagem",
+      "ramal": "3236-1828"
+    },
+    {
+      "id": 26,
+      "email": "cozinha@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Cozinha Externa",
+      "ramal": "3215-4615"
+    },
+    {
+      "id": 41,
+      "email": "custos@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Custos",
+      "ramal": "3236-1851"
+    },
+    {
+      "id": 25,
+      "email": "carlos@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Diretoria",
+      "ramal": "3236-1850"
+    },
+    {
+      "id": 15,
+      "email": "auditoria@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "DML",
+      "ramal": "3236-1834"
+    },
+    {
+      "id": 11,
+      "email": "farmacia@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Farmacia -  PS",
+      "ramal": "3236-1861"
+    },
+    {
+      "id": 30,
+      "email": "farmacia@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Farmacia 12° Andar",
+      "ramal": "3236-1841"
+    },
+    {
+      "id": 10,
+      "email": "farmacia@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Farmacia 2° Andar",
+      "ramal": "3236-1824"
+    },
+    {
+      "id": 7,
+      "email": "faturamento@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Faturamento",
+      "ramal": "3236-1825"
+    },
+    {
+      "id": 37,
+      "email": "suelenemedrado35@gmail.com",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Faturamento Unimed",
+      "ramal": "3236 - 1825 / 1827"
+    },
+    {
+      "id": 2,
+      "email": "financeiro@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Financeiro",
+      "ramal": "3236-1867"
+    },
+    {
+      "id": 22,
+      "email": "lavanderia@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 5
+      },
+      "nome": "Lavanderia",
+      "ramal": "3236-1880"
+    },
+    {
+      "id": 23,
+      "email": "gisacborges@gmail.com",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Manutenção Geral",
+      "ramal": "3236-1865"
+    },
+    {
+      "id": 35,
+      "email": "gisacborges@gmail.com",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Marketing",
+      "ramal": "3236-1865"
+    },
+    {
+      "id": 38,
+      "email": null,
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Medimagem",
+      "ramal": null
+    },
+    {
+      "id": 20,
+      "email": "nutricao@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Nutrição",
+      "ramal": "3236-0000"
+    },
+    {
+      "id": 6,
+      "email": "orcamento@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Orçamento",
+      "ramal": "3236-1829"
+    },
+    {
+      "id": 16,
+      "email": "orcamento@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Orçamento -  PS",
+      "ramal": "3236-1854"
+    },
+    {
+      "id": 39,
+      "email": "tiphpmdev@gmail.com",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Outros",
+      "ramal": "3236-1800"
+    },
+    {
+      "id": 19,
+      "email": "postoenfermagem@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Posto de Enfermagem -  PS",
+      "ramal": "3236-1860"
+    },
+    {
+      "id": 9,
+      "email": "postoenfermagem@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Posto de Enfermagem 2° Andar",
+      "ramal": "3236-1820 / 1821"
+    },
+    {
+      "id": 18,
+      "email": null,
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Posto Enfermagem 12° Andar",
+      "ramal": null
+    },
+    {
+      "id": 33,
+      "email": "radiologia@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Radiologia - PS",
+      "ramal": "3236-1874"
+    },
+    {
+      "id": 28,
+      "email": "recepcao@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Recepção  - PS",
+      "ramal": "3236-1818"
+    },
+    {
+      "id": 3,
+      "email": "recepcao@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Recepção 2° Andar",
+      "ramal": "3236 - 1801 / 1802 / 1803"
+    },
+    {
+      "id": 29,
+      "email": "iup@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Recepção IUP",
+      "ramal": "3236 - 1838"
+    },
+    {
+      "id": 5,
+      "email": "rh@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Recursos humanos",
+      "ramal": "3236 - 1836"
+    },
+    {
+      "id": 24,
+      "email": "nutricao@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Refeitório",
+      "ramal": "3236 - 1832"
+    },
+    {
+      "id": 12,
+      "email": "servicogeral@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Serviços Gerais",
+      "ramal": "3236 - 1804"
+    },
+    {
+      "id": 1,
+      "email": "ti@hospitalpalmasmedical.com.br",
+      "empresa": {
+        "id": 1
+      },
+      "nome": "Tecnologia da Informação",
+      "ramal": "3236 - 1805"
+    }
+  ]
+}
+    
+  }
+
